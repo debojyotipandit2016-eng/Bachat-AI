@@ -1,0 +1,7 @@
+{
+  "name": "Bachat AI - Smart Shopping Agent",
+  "description": "India's smartest AI shopping assistant for price comparison, food deals, and price drop alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
